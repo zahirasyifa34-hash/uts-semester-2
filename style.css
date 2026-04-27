@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(135deg, #f2f701, hsl(56, 88%, 60%));
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.card {
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.btn-beli {
+    background: #ff69b4;
+    color: white;
+    border-radius: 20px;
+}
+
+.btn-beli:hover {
+    background: #ff1493;
+}
+
+
+.navbar-brand {
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+img {
+    transition: 0.3s;
+}
+
+img:hover {
+    transform: scale(1.02);
+}
+
+body {
+    background: linear-gradient(135deg, #2e7d32, #66bb6a);
+}
+
+.card {
+    border-radius: 15px;
+}
+
+
+body {
+    background: linear-gradient(135deg, #2e7d32, #66bb6a) !important;
+    height: 100vh;
+}
+
+
